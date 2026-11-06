@@ -65,13 +65,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavsahu2739-art&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E&icon_color=00D9FF" height="165" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavsahu2739-art&theme=dark&hide_border=true&background=0D1117&title_color=00D9FF&side_color=00D9FF&stroke=00D9FF" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavsahu2739-art&theme=dark&hide_border=true&background=0D1117&title_color=00D9FF&side_color=00D9FF&stroke=00D9FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsahu2739-art&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinavsahu2739-art&theme=radical" alt="GitHub Stats Card" />
 </p>
 
 ---
