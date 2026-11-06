@@ -62,22 +62,10 @@
 
 ---
 
-## 🎬 Anime & Hobbies
+## 🎧 Beyond Coding
 
-<p align="center">
-  <!-- Favorite Anime Badges -->
-  <img src="https://img.shields.io/badge/Naruto-FF7100?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Naruto" />
-  <img src="https://img.shields.io/badge/Attack_on_Titan-2B2D42?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="AOT" />
-  <img src="https://img.shields.io/badge/Demon_Slayer-1E1B4B?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Demon Slayer" />
-  <img src="https://img.shields.io/badge/Jujutsu_Kaisen-000000?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Jujutsu Kaisen" />
-</p>
-
-<!-- Optional: AniList Stats Widget (Replace YOUR_ANILIST_USERNAME with your username if you use AniList) -->
-<!--
-<p align="center">
-  <img src="https://anilist-stats.vercel.app/api?username=YOUR_ANILIST_USERNAME&hide_rank=false&theme=dark" alt="AniList Stats" />
-</p>
--->
+* ⚡ **Favorite Universes:** Naruto • Attack on Titan • Jujutsu Kaisen • Demon Slayer
+* 🎯 **Mindset:** Consistency over intensity
 
 ---
 
