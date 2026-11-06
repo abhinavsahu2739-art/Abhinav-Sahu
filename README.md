@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🔥 CUSTOM BANNER -->
-<img src="banner.png" width="100%" alt="Abhinav Sahu Developer Banner"/>
+<img src="banner.png" width="100%" alt="WebsByAbhi Developer Banner"/>
 
 # 👋 Hi, I'm Abhinav Sahu
 
@@ -28,9 +28,10 @@ Data Analytics & Artificial Intelligence.
 
 ## 🧑‍💻 About Me
 
-```text
-🎓 BCA Artificial Intelligence Student
-🌱 Learning Java & Data Structures and Algorithms
-🌐 Building Web Development Projects
-🐍 Exploring Python, Data Analytics & AI
-🚀 Building useful real-world projects
+- 🎓 BCA Artificial Intelligence Student
+- 🌱 Currently learning **Java & Data Structures and Algorithms**
+- 🌐 Building web development projects
+- 🐍 Exploring **Python, Data Analytics & AI**
+- 🚀 Interested in building useful real-world projects
+
+---
