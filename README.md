@@ -103,21 +103,20 @@ My web development portfolio and project showcase.
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhinavsahu2739-art&show_icons=true&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsahu2739-art&layout=compact&hide_border=true" height="165"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavsahu2739-art&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
 
 ---
 
-<div align="center">
-
 ## 🌱 Currently Learning
 
-☕ **Java & DSA** • 🌐 **Web Development** • 📊 **Data Analytics** • 🤖 **Artificial Intelligence**
+- ☕ Java and Data Structures & Algorithms
+- 🌐 Web Development and JavaScript
+- 📊 Data Analytics with Python
+- 🤖 Artificial Intelligence
 
 </div>
 
