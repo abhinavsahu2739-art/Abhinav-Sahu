@@ -35,22 +35,11 @@
 
 ## 🧑‍💻 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>🎓 <b>Education:</b> BCA in Artificial Intelligence</li>
-        <li>🌱 <b>Current Focus:</b> Java, Data Structures & Algorithms (DSA)</li>
-        <li>🌐 <b>Web Stack:</b> Full-Stack Web Development Projects</li>
-        <li>🐍 <b>AI & Data:</b> Python, Data Analytics & AI Fundamentals</li>
-        <li>🚀 <b>Goal:</b> Building impactful, scalable real-world software applications</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsahu2739-art&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+* 🎓 **Education:** BCA in Artificial Intelligence
+* 🌱 **Current Focus:** Java, Data Structures & Algorithms (DSA)
+* 🌐 **Web Stack:** Full-Stack Web Development Projects
+* 🐍 **AI & Data:** Python, Data Analytics & AI Fundamentals
+* 🚀 **Goal:** Building impactful, scalable real-world software applications
 
 ---
 
@@ -79,6 +68,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abhinavsahu2739-art&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E&icon_color=00D9FF" height="165" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavsahu2739-art&theme=dark&hide_border=true&background=0D1117&title_color=00D9FF&side_color=00D9FF&stroke=00D9FF" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsahu2739-art&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E" alt="Top Languages" />
 </p>
 
 ---
